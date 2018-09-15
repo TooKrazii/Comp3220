@@ -33,10 +33,10 @@
  
  #### Problem Time Complexity
  The time complexity for this problem is O(N^2).
+ ___
  
  #### License
    [Auburn University](/LICENSE)
-
  ___
 
  ## Author
