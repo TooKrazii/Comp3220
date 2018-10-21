@@ -1,5 +1,11 @@
 # Project 2 - Scheme
 
+We are given the example of a county fair that has a bucket ball game. Each player is given a bucket and the balls inside of said
+bucket are given values. We are going to be tasked with writing a computer program in Scheme that will look at a given bucket
+and determine how many points it's worth.
+
+NOTE: Please ensure that you have DrRacket installed on your machine before beginning this project.
+
 # Table of Contents
 * [Ball-val](#ball-val)
 * [Count-balls](#count-balls)
