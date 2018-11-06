@@ -5,13 +5,12 @@ We are given multiple conditions by which we have to solve a programming problem
 NOTE: Please ensure that you have GNU-Prolog installed on your computer before you begin this project.
 
 # Table of Contents
-
-* [Condition 1] (#condition1)
-* [Condition 2] (#condition2)
-* [Condition 3] (#condition3)
-* [Condition 4] (#condition4)
-* [Condition 5] (#condition5)
-* [Room Layout] (#roomlayout)
+* [Condition 1](#condition1)
+* [Condition 2](#condition2)
+* [Condition 3](#condition3)
+* [Condition 4](#condition4)
+* [Condition 5](#condition5)
+* [Room Layout](#roomlayout)
 * [License](#license)
 * [Author](#author) 
 
@@ -51,6 +50,7 @@ sequence of rooms I must go through to reach all of the rooms with phones ringin
 #### Room Layout
 
   We are provided with a room layout for the problem that will guide us as to how the building is laid out and assist with ensureing that we are programming correctly. From here, we are tasked with creating a code that matches the five conditions listed above and prints out the proper code showing us the trail of rooms we are guided through during our programming.
+  ___
   
 #### License
 
